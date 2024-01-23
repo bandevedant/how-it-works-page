@@ -1,5 +1,5 @@
 # React + TypeScript + Vite
-Commands to run the application on localhost:
+##Commands to run the application on localhost:
 
 cd how-it-works
 npm install
