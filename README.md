@@ -21,3 +21,6 @@ The Card Component is made using Framer Motion library for react.
 A full responsive webpage with proper code quality and fast to load.
 
 Depolyed Link: https://how-it-works-page.vercel.app/
+
+
+Video Link : https://drive.google.com/file/d/1QGPNJfukXnjB8K9Ay01uWHIfQjARZblu/view?usp=drive_link
