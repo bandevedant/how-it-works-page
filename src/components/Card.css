@@ -1,0 +1,32 @@
+.main-card {
+  /* border: 2px solid black; */
+  display: flex;
+  flex-direction: column;
+  width: 100%;
+  padding: 20px;
+  align-items: center;
+}
+
+.main-card-heading {
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  width: 240px;
+  /* border: 2px solid red; */
+  gap: 20px;
+}
+
+.main-card-heading img {
+  height: 80px;
+  /* border: 2px solid blue; */
+}
+
+.main-card-heading h2 {
+  font-size: 24px;
+}
+
+.main-card-desc p{
+  width: 240px;
+  align-items: center;
+  /* border: 2px solid pink; */
+}
